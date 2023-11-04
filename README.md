@@ -1,5 +1,5 @@
 
-# Hi there 👋,  I'm Pranil Shah
+# Hi there 👋,  I'm Pranil Shah &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![](https://visitcount.itsvg.in/api?id=pranilshah4024&label=Profile%20Views&color=3&icon=5&pretty=true)](https://visitcount.itsvg.in)             
 
 I am an accomplished Mobile Application Developer with a proven track record in crafting dynamic (Cross-Platform) Android and iOS applications, as well as Native Android Applications. Specializing in the innovative frameworks of Flutter and Kotlin, I bring an exceptional level of proficiency and finesse to my work. 
 
