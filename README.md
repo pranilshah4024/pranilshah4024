@@ -60,3 +60,6 @@ Furthermore, I boast a comprehensive understanding of Frontend Technologies, inc
 ## Guthub Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pranilshah4024&theme=soft-green)](https://git.io/streak-stats)
+
+## Support
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W3R3UVR)
