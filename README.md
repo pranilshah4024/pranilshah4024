@@ -57,9 +57,6 @@ Furthermore, I boast a comprehensive understanding of Frontend Technologies, inc
 ![macbook](https://img.shields.io/badge/Apple-MacBook_Pro_2020-999999?style=for-the-badge&logo=apple&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)![intel](https://img.shields.io/badge/Intel-Core_i7_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 
-## Guthub Stats
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pranilshah4024&theme=soft-green)](https://git.io/streak-stats)
 
 ## Support
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W3R3UVR)
